@@ -1,0 +1,4 @@
+#Mon Jul 20 00:24:30 IST 2020
+base.0=/home/pravin/AndroidStudioProjects/budget-app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
